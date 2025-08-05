@@ -1,0 +1,46 @@
+# Network Scanner GUI - Complete Dependencies
+
+# External Dependencies (need installation):
+# Core networking library for ARP scanning and packet manipulation
+scapy>=2.4.5
+
+# HTTP requests for vendor lookup API
+requests>=2.25.1
+
+# Clipboard functionality for copy/paste features
+pyperclip>=1.8.2
+
+# Built-in Python Modules (included with Python):
+# GUI Framework
+tkinter
+
+# Threading and concurrency
+threading
+
+# Time operations
+time
+
+# Queue for thread communication
+queue
+
+# System operations
+os
+sys
+
+# Network operations
+socket
+
+# Regular expressions
+re
+
+# Random number generation
+random
+
+# Subprocess for system commands
+subprocess
+
+# Command line argument parsing
+argparse
+
+# Type hints
+typing
